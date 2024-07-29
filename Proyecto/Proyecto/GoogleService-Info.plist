@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>322702079110-f11q0ckv0cd91ocb73jdlftsc0hu0dft.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.322702079110-f11q0ckv0cd91ocb73jdlftsc0hu0dft</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZPYaMyRWPzXULqwVZVypHAkZjAGTTs2E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>322702079110</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Tuister.Proyecto</string>
+	<key>PROJECT_ID</key>
+	<string>tuister-7390d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tuister-7390d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:322702079110:ios:10828ec461992736768d07</string>
+	<key>DATABASE_URL</key>
+	<string>https://tuister-7390d.firebaseio.com</string>
+</dict>
+</plist>
